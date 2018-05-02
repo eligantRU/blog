@@ -5,6 +5,7 @@ destination:  "_site"
 url:          "https://eligantru.github.io"
 paginate:     1
 locale:       "en"
+source:       "."
 
 # About/contact
 author:
