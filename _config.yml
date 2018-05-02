@@ -2,6 +2,7 @@
 title:        "Блог лайтовый: 1 шт."
 tagline:      "о наболевшем и не только"
 baseurl:      ""
+url:          "https://eligantru.github.io/blog"
 paginate:     1
 locale:       "en"
 
