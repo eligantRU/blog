@@ -1,7 +1,7 @@
 # Setup
 title:        "Блог лайтовый: 1 шт."
 tagline:      "о наболевшем и не только"
-baseurl:      ""
+source:       
 destination:  "_site"
 url:          "https://eligantru.github.io"
 paginate:     1
