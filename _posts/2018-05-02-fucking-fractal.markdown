@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "JavaScript: фрактал отсоса"
-date:   2018-02-15 00:00:00
+date:   2018-05-02 00:00:00
 categories: main
 ---
 
