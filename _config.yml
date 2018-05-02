@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        "Блог лайтовый: 1 шт."
+tagline:      "о наболевшем и не только"
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       Nick Yegorov
+  url:        https://github.com/eligantRU
+
+# Plugins
+plugins:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
